@@ -321,13 +321,13 @@ html, body {
   .notepad-dlg-font .main .sample {
     border-color: white;
     height: 78px;
-    margin-left: 196px;
+    margin-left: 20px;
     margin-top: 28px;
     width: 194px;
   }
   
   .notepad-dlg-font .main .script {
-    margin-left: 196px;
+    margin-left: 20px;
     margin-top: 12px;
   }
   
